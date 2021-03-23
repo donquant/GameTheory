@@ -2,4 +2,4 @@
 
 ### Ссылка на nbviewer
 
-[Класс для решения матричных игр](https://nbviewer.jupyter.org/github/donquant/GameTheory/blob/main/matrix_games.ipynb)
+[Моделирование движения тела в постоянном поле силы тяжести](https://nbviewer.jupyter.org/github/donquant/Mathematical_Modeling/blob/main/projectile_motion.ipynb)
